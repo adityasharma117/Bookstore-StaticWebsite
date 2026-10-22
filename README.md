@@ -1,1 +1,1 @@
-A static website demonstrating html css understanding
+A static website demonstrating html understanding
